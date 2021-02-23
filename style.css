@@ -9,8 +9,8 @@ body{
     color:black;
 }
 
-.group_img img{
-    max-height: 80%;
+#group_img img{
+    height: auto;
 }
 
 .nav-item  .active{
